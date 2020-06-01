@@ -1,0 +1,26 @@
+{
+  "name": "@ishiduca/doozin-service-www-melonbooks-co-jp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishiduca/doozin-service-www-melonbooks-co-jp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishiduca/doozin-service-www-melonbooks-co-jp/issues"
+  },
+  "homepage": "https://github.com/ishiduca/doozin-service-www-melonbooks-co-jp#readme",
+  "dependencies": {
+    "@ishiduca/doozin-service": "git+https://github.com/ishiduca/doozin-service.git",
+    "inherits": "^2.0.4",
+    "trumpet": "^1.7.2",
+    "urlencode": "^1.1.0"
+  }
+}
